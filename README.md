@@ -21,6 +21,8 @@ volta is supposed to be faster but I don't like how it goes on my package.json p
 right now we are just using tsc and a tsconfig.json might want to use babel at some point but since this is server code only it doesn't feel as worth it
 read more: https://iamturns.com/typescript-babel/
 
+## .vscode
+I have these settings on my vscode user settings but they live here for reference or if I ever want to hack together with a friend :)
 ## Packages
 
 ### @types/node
@@ -80,6 +82,7 @@ pretty ts files
 
 ~ types ~
 
-### on the tsconfig itself
+#### on the tsconfig itself
+
 we are using node 14 so this should work
 https://stackoverflow.com/questions/61305578/what-typescript-configuration-produces-output-closest-to-node-js-14-capabilities/61305579#61305579
