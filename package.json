@@ -12,7 +12,7 @@
     "typescript": "^4.2.3"
   },
   "scripts": {
-    "start": "nodemon build/src/app.js",
+    "start": "nodemon dist/src/app.js",
     "build": "tsc -p tsconfig.dist.json",
     "build:watch": "tsc -w -p tsconfig.dist.json",
     "lint": "eslint . --ext .ts"
