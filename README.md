@@ -7,6 +7,13 @@ inspired by random tidbits of info on the internet and:
 - https://github.com/w3tecch/express-typescript-boilerplate
 - https://github.com/microsoft/TypeScript-Node-Starter
 
+## how to structure everything under `src`
+design pattern first, folder structure second.
+
+https://about.sourcegraph.com/go/gophercon-2018-how-do-you-structure-your-go-apps/
+https://www.coreycleary.me/project-structure-for-an-express-rest-api-when-there-is-no-standard-way
+https://softwareontheroad.com/ideal-nodejs-project-structure/
+
 ## Gitignore
 copy pasta from
 https://github.com/github/gitignore/blob/master/Node.gitignore
